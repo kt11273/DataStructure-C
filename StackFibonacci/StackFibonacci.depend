@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1422693654 source:c:\users\user\desktop\stackfibonacci\main.c
-	<stdio.h>
-	<stdlib.h>
-	<stdbool.h>
-
